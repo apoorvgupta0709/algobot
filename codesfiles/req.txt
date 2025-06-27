@@ -1,10 +1,7 @@
 datetime
 pandas
 pytz
-time
-os
 fyers_apiv3
-webbrowser
 dotenv
 numpy
 plotly
