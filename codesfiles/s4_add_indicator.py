@@ -1,7 +1,5 @@
 from datetime import datetime, timedelta
-from tkinter.tix import COLUMN
 import pandas as pd
-import pandas_ta as pta
 import ta
 import numpy as np
 

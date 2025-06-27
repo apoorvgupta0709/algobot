@@ -1,11 +1,11 @@
-import json
-import requests
-import time
-import pyotp
+#import json
+#import requests
+#import time
+#import pyotp
 import os
-from urllib.parse import parse_qs, urlparse
-import sys
-from fyers_api import accessToken
+#from urllib.parse import parse_qs, urlparse
+#import sys
+#from fyers_api import accessToken
 from fyers_apiv3 import fyersModel
 import webbrowser
 from dotenv import load_dotenv
